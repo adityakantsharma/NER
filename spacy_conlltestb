@@ -15112,6 +15112,7 @@ C$	I-MISC
 per	O
 cwt	O
 )	O
+- O
 
 Dec	O
 4	O
@@ -15360,9 +15361,11 @@ YORK	I-ORG
 19961206	O
 
 FIXTURES	O
+- : O O O
 
 WESTERN	I-LOC
 HEMISPHERE	I-LOC
+- : O O O
 
 Danila	I-LOC
 2805	O
@@ -15416,7 +15419,9 @@ W46050	I-ORG
 Mobil	I-PER
 0	O
 
+
 MEDITERRANEAN	I-PER
+
 
 Lula	O
 I	O
@@ -26036,7 +26041,6 @@ Same	I-LOC
 Period	I-LOC
 Last	O
 Year	O
-*	O
 (	O
 act	O
 )	O
@@ -26056,7 +26060,6 @@ date	O
 Year	O
 to	O
 date	O
-*	O
 32,970,000	O
 1,305,000	O
 88,800,000	O
@@ -26071,7 +26074,6 @@ change	O
 404	O
 %	O
 
-*	O
 1995	O
 totals	O
 adjusted	O
@@ -26166,92 +26168,77 @@ List	O
 
 12/15/2000	O
 1,250	O
-M	O
 6025	O
 4010	O
 
 12/15/2001	O
 575	O
-M	O
 4060	O
 4020	O
 
 12/15/2003	O
 265	O
-M	O
 4040	O
 4040	O
 
 12/15/2004	O
 625	O
-M	O
 4050	O
 4050	O
 
 12/15/2005	O
 55	O
-M	O
 4060	O
 4060	O
 
 12/15/2006	O
 145	O
-M	O
 4070	O
 4070	O
 
 12/15/2007	O
 850	O
-M	O
 4085	O
 4085	O
 
 12/15/2008	O
 1,200	O
-M	O
 4095	O
 4095	O
 
 12/15/2009	O
 1,240	O
-M	O
 5005	O
 5005	O
 
 12/15/2010	O
 1,250	O
-M	O
 5015	O
 5015	O
 
 12/15/2011	O
 1,240	O
-M	O
 5025	O
 5025	O
 
 12/15/2012	O
 1,200	O
-M	O
 5025	O
 5030	O
 
 12/15/2013	O
 1,135	O
-M	O
 5030	O
 5035	O
 
 12/15/2014	O
 850	O
-M	O
 5030	O
 5035	O
 
 Total	O
 :	O
 11,880	O
-M	O
 
 State	I-ORG
 Street	I-ORG
@@ -28062,6 +28049,7 @@ Board	I-ORG
 of	I-ORG
 Trade	I-ORG
 
+
 Receipts	I-ORG
 Shipments	I-ORG
 
@@ -29397,8 +29385,7 @@ month	O
 
 "	O
 I	O
-'	O
-ve	O
+'ve	O
 gone	O
 back	O
 ,	O
@@ -30293,11 +30280,7 @@ The	O
 web	O
 site	O
 (	O
-http://www0pt0lu	O
-/	O
-infoweb	O
-/	O
-kreschtmaart	O
+http://www0pt0lu/infoweb/kreschtmaart
 )	O
 gives	O
 details	O
